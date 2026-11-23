@@ -1,0 +1,1 @@
+> variable are name given to a value, so in this case a variable name is declared and assigned to a value ,  and print() is used to dsiplay item or value on the terminal
